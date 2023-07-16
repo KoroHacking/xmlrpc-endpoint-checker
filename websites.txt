@@ -1,0 +1,4 @@
+https://wordpress_site1/
+https://wordpress_site2/
+https://wordpress_site3/
+etc...
